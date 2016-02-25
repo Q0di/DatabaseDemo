@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addSTR">add</string>
+    <string name="deleteSTR">delete</string>
+    <string name="displySTR">Display</string>
+</resources>
